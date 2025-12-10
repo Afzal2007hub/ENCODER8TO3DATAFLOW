@@ -42,12 +42,15 @@ Figure 02  Encoder 8 * 3
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
+
+
 Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+https://private-user-images.githubusercontent.com/227095070/520353005-72950eee-0db8-47c1-abc9-6d51ba24f421.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUzNTM1ODksIm5iZiI6MTc2NTM1MzI4OSwicGF0aCI6Ii8yMjcwOTUwNzAvNTIwMzUzMDA1LTcyOTUwZWVlLTBkYjgtNDdjMS1hYmM5LTZkNTFiYTI0ZjQyMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIxMFQwNzU0NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNzA1OWE5ZjExMmM5NmMwY2U3ZTJlNjFmZmJlYWI5NmExOWJlODJmZjcxN2E5YzlmMzE3ZDVkZGIzYzM0ZGFlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.BwRIK40TnhsLalggwdoJwC4f3myH72o-oL6ZsTBuTx0
 
 **RESULTS**
 
